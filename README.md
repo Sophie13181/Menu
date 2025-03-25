@@ -26,13 +26,13 @@
             background-position: center;
         }
         .breakfast {
-            background-image: url('https://zaxid.net/resources/photos/news/1200x675_DIR/202405/1585459.jpg?202503151801');
+            background-image: url('https://daisiesandpie.co.uk/wp-content/uploads/2015/08/Wise-Owl-Toast-kids-breakfast-720x720.jpg');
         }
         .lunch {
-            background-image: url('https://vikna.tv/wp-content/uploads/2022/06/05/reczept-smachnogo-obidu.jpg');
+            background-image: url('https://simply-delicious-food.com/wp-content/uploads/2018/07/mexican-lunch-bowls-3.jpg');
         }
         .dinner {
-            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRygf_LVqCW1VXha3TBX430VuFER0hxSNFUDQ&s');
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeGOG64Aa1fKwtDwdWW__aR7A6FhAPrQRYg&s');
         }
         h2 {
             text-align: center;
